@@ -15,6 +15,7 @@
     "posttest": "npm run lint"
   },
   "dependencies": {
+    "csv-parse": "^5.5.3",
     "dotenv": "^16.4.5",
     "imapflow": "^1.0.152"
   }
